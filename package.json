@@ -1,0 +1,24 @@
+{
+  "name": "playwright-pytest",
+  "version": "1.0.0",
+  "description": "Write end-to-end tests for your web apps with [Playwright](https://github.com/microsoft/playwright-python) and [pytest](https://docs.pytest.org/en/stable/).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juiceqa/playwright-pytest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juiceqa/playwright-pytest/issues"
+  },
+  "homepage": "https://github.com/juiceqa/playwright-pytest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  }
+}

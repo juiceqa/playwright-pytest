@@ -142,3 +142,7 @@ dmypy.json
 _repo_version.py
 .DS_Store
 /test-results/
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
